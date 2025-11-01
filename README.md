@@ -3,7 +3,6 @@
 An image classification project that recognizes **hand gestures (Rock, Paper, Scissors)** using a **Convolutional Neural Network (CNN)**.  
 Built during the **Dicoding Machine Learning Academy**, this project demonstrates how computer vision can learn visual patterns through deep learning.
 
-
 [![Google Colab](https://img.shields.io/badge/Open%20in-Colab-yellow?logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1ILXA044PprIbma1NKTVG1NQa8f7lSW8P)
 
 ---
@@ -32,9 +31,9 @@ Through **image augmentation** and multi-layer convolution, the model achieved *
 
 ## 📊 Example Visualizations
 
-| Training Data | Model Structure | Prediction Result |
+| CNN Layer Architecture | Training Process Output | Prediction Result |
 |:--:|:--:|:--:|
-| <img src="assets/sample_augmentation.png" width="260"/> | <img src="assets/model_summary.png" width="260"/> | <img src="assets/prediction_sample.png" width="260"/> |
+| <img src="https://github.com/rizalarb/Rock-Paper-Scissors-Image-Classification/blob/master/CNN%20Layers.png" width="260"/> | <img src="https://github.com/rizalarb/Rock-Paper-Scissors-Image-Classification/blob/master/Training%20Model%20Output.png" width="260"/> | <img src="https://github.com/rizalarb/Rock-Paper-Scissors-Image-Classification/blob/master/Output%20Prediction%20Tes.png" width="260"/> |
 
 ---
 
@@ -43,3 +42,7 @@ Through **image augmentation** and multi-layer convolution, the model achieved *
 `Python` • `TensorFlow / Keras` • `NumPy` • `Matplotlib` • `Google Colab`
 
 ---
+
+
+**Institution:** Dicoding Academy  
+**Year:** 2022
